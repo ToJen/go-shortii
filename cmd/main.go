@@ -4,8 +4,9 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"shortii/shorten"
 	"strings"
+
+	"github.com/tojen/go-shortii/pkg/shorten"
 )
 
 func main() {
